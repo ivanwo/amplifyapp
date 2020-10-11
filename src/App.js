@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Click Here to Find a "Fact"
+          Click Here to Find a "Fiction"
         </a>
       </header>
     </div>
