@@ -9,7 +9,7 @@ function App() {
         <img src="auth.png" className="App-logo" alt="logo" />
         <h1>We have added auth!</h1>
         <p>
-          And yet, lots of work to be done here!
+          AAAAAHHHHHHHHH
         </p>
       </header>
       <AmplifySignOut />
