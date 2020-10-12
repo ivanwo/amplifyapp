@@ -11,8 +11,8 @@ function App() {
         <p>
           AAAAAHHHHHHHHH
         </p>
-      </header>
       <AmplifySignOut />
+      </header>
     </div>
   );
 }
